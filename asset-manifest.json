@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smart-meal-generator/static/css/main.8742c8ca.css",
+    "main.js": "/smart-meal-generator/static/js/main.d794136e.js",
+    "index.html": "/smart-meal-generator/index.html",
+    "main.8742c8ca.css.map": "/smart-meal-generator/static/css/main.8742c8ca.css.map",
+    "main.d794136e.js.map": "/smart-meal-generator/static/js/main.d794136e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8742c8ca.css",
+    "static/js/main.d794136e.js"
+  ]
+}
